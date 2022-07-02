@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 <!-- 방문자 수 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zangsu&layout=compact)](https://github.com/zangsu/github-readme-stats)
+
+![zangsu's github stats](https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true)
