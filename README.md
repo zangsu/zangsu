@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&text=Zangsu's_Github&fontAlignY=45&fontSize=40&height=150&descAlignY=70)
+![cylinder](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Zangsu's_Github&fontAlignX=250&fontAlign=75&fontAlignY=45&fontSize=40&height=300&descAlignY=70)
 
 <!--
 헤더
