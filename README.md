@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice)
-<--
+![header](https://capsule-render.vercel.app/api?type=cylinder)
+<!--
 헤더
 -->
