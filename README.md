@@ -22,9 +22,9 @@
   <!-- 헤더 -->
 
 
-  ### 🖐 안녕하세요, 성장하는 개발자 Zangsu 입니다! 🖐
+  # 🖐 안녕하세요, 개발자 Zangsu 입니다! 🖐
   
-  ---
+  
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzangsu%2Fhit-counter&count_bg=%238CC85E&title_bg=%23616668&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <!-- 방문자 수 -->
