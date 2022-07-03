@@ -50,7 +50,7 @@
   https://github.com/zangsu/Clone_Site
   
   ### May
-  프로젝트 명 : Segment<br>  
+  >프로젝트 명 : Segment<br>  
   서평을 주요 콘텐츠로 다루는 블로그를 만들기 위한 웹 개발 프로젝트<br>  
   주요 사용 기술 : django, css<br>  
   https://github.com/Get-It-Team1/Segment
