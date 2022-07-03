@@ -37,4 +37,19 @@
 
   ![zangsu's github stats](https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true)
   <div align="center">
+  
+  <!-- 프로젝트 이력 -->
+  ## 2022
+  ### Mar
+  프로젝트 명 : Clone_Site
+  당시 아르바이트를 하던 방탈출카페의 예약 페이지를 클론코딩 해보기 위해 시작한 웹 개발 프로젝트 
+  사용 언어 : html, css, js
+  특이사항 : 게시판 기능을 구현하지 못한 채 미완성 <!-- 배너 삽입 -->
+  https://github.com/zangsu/Clone_Site
+  
+  ### May
+  프로젝트 명 : Segment
+  서평을 주요 콘텐츠로 다루는 블로그를 만들기 위한 웹 개발 프로젝트
+  주요 사용 기술 : django, css
+  https://github.com/Get-It-Team1/Segment
 </div>
