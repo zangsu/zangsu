@@ -36,7 +36,8 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zangsu&layout=compact)](https://github.com/zangsu/github-readme-stats)
 
   ![zangsu's github stats](https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true)
-  <div align="center">
+
+  </div>
   
   <!-- 프로젝트 이력 -->
   ## 2022
@@ -52,4 +53,4 @@
   서평을 주요 콘텐츠로 다루는 블로그를 만들기 위한 웹 개발 프로젝트
   주요 사용 기술 : django, css
   https://github.com/Get-It-Team1/Segment
-</div>
+
