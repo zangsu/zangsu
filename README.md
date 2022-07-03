@@ -39,7 +39,7 @@
 
   </div>
   
-  # 프로젝트 이력
+  # 📁 My Repo
   
   ## 2022
   ### Mar
@@ -49,4 +49,7 @@
   ### May
   >#### <a href = "https://github.com/Get-It-Team1/Segment"> Segment </a> <br>  
   >서평을 주요 콘텐츠로 다루는 블로그를 만들기 위한 웹 개발 프로젝트<br>  
-
+  
+  ### Jul
+  >#### <a href = "https://github.com/zangsu/Hands-On-Machine-Learning"> Hands-On-Machine-Learning </a>
+  >`핸즈온 머신러닝` 을 보며 머신러닝 
