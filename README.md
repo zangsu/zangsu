@@ -45,13 +45,10 @@
   ### Mar
  >#### Clone_Site<br>
  > 당시 아르바이트를 하던 방탈출카페의 예약 페이지를 클론코딩 해보기 위해 시작한 웹 개발 프로젝트 <br>  
-  사용 언어 : html, css, js<br>  
-  특이사항 : 게시판 기능을 구현하지 못한 채 미완성 <!-- 배너 삽입 --><br>  
   https://github.com/zangsu/Clone_Site
   
   ### May
   >#### Segment<br>  
   >서평을 주요 콘텐츠로 다루는 블로그를 만들기 위한 웹 개발 프로젝트<br>  
-  주요 사용 기술 : django, css<br>  
   https://github.com/Get-It-Team1/Segment
 
