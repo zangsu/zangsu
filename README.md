@@ -43,9 +43,8 @@
   
   ## 2022
   ### Mar
- >#### Clone_Site<br>
+ >#### <a href = "https://github.com/zangsu/Clone_Site"> Clone_Site </a><br>
  > 당시 아르바이트를 하던 방탈출카페의 예약 페이지를 클론코딩 해보기 위해 시작한 웹 개발 프로젝트 <br>  
-  https://github.com/zangsu/Clone_Site
   
   ### May
   >#### Segment<br>  
