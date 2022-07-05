@@ -24,7 +24,7 @@
 
   # 🖐 안녕하세요, 개발자 Zangsu 입니다! 🖐
   
-Contact<br>
+## Contact<br>
   <a href="https://velog.io/@zangsu" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   
   
