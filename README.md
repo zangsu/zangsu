@@ -41,15 +41,19 @@
   
   # 📁 My Repo
   
-  ## 2022
-  ### Mar
- >#### <a href = "https://github.com/zangsu/Clone_Site"> Clone_Site </a><br>
- > 당시 아르바이트를 하던 방탈출카페의 예약 페이지를 클론코딩 해보기 위해 시작한 웹 개발 프로젝트 <br>  
+  ## FrontEnd
+  ### Web
+   >#### <a href = "https://github.com/zangsu/Clone_Site"> Clone_Site </a><br>
+   > 당시 아르바이트를 하던 방탈출카페의 예약 페이지를 클론코딩 해보기 위해 시작한 웹 개발 프로젝트 <br>  
   
-  ### May
   >#### <a href = "https://github.com/Get-It-Team1/Segment"> Segment </a> <br>  
   >서평을 주요 콘텐츠로 다루는 블로그를 만들기 위한 웹 개발 프로젝트<br>  
   
-  ### Jul
+ ## ML
+ ### Basic ML
+  >#### <a href = "https://github.com/zangsu/HGML"> HGML </a><br>
+  > '혼자 공부하는 머신러닝 + 딥러닝
+  
+ ### DNN
   >#### <a href = "https://github.com/zangsu/Hands-On-Machine-Learning"> Hands-On-Machine-Learning </a>
   >`핸즈온 머신러닝` 을 보며 머신러닝 
