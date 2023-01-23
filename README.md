@@ -41,19 +41,8 @@
   
   # 📁 My Repo
   
-  ## FrontEnd
-  ### Web
-   >#### <a href = "https://github.com/zangsu/Clone_Site"> Clone_Site </a><br>
-   > 당시 아르바이트를 하던 방탈출카페의 예약 페이지를 클론코딩 해보기 위해 시작한 웹 개발 프로젝트 <br>  
+  ## 우아한 프리코스
+  ### 1주차
+   >#### <a href = "https://github.com/zangsu/java-baseball-precourse"> 숫자 야구 </a><br>
+   > 벨로그 : [숫자 야구](https://velog.io/@zangsu/%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC) <br>  
   
-  >#### <a href = "https://github.com/Get-It-Team1/Segment"> Segment </a> <br>  
-  >서평을 주요 콘텐츠로 다루는 블로그를 만들기 위한 웹 개발 프로젝트<br>  
-  
- ## ML
- ### Basic ML
-  >#### <a href = "https://github.com/zangsu/HGML"> HGML </a><br>
-  > '혼자 공부하는 머신러닝 + 딥러닝
-  
- ### DNN
-  >#### <a href = "https://github.com/zangsu/Hands-On-Machine-Learning"> Hands-On-Machine-Learning </a>
-  >`핸즈온 머신러닝` 을 보며 머신러닝 
