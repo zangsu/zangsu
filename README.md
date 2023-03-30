@@ -24,24 +24,28 @@
 
   # 🖐 안녕하세요, 개발자 Zangsu 입니다! 🖐
   
-### Contact<br>
-  <a href="https://velog.io/@zangsu" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=gradient&hide_rank="false">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zangsu&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=zangsu&hide=Jupyter%20Notebook&theme=transparent&hide_border=true&background=00000000">
+</p>
+
   
-  
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzangsu%2Fhit-counter&count_bg=%238CC85E&title_bg=%23616668&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  <!-- 방문자 수 -->
-
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zangsu&layout=compact)](https://github.com/zangsu/github-readme-stats)
-
-  ![zangsu's github stats](https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true)
+ 
 
   </div>
+
+  ### Contact  
+  **Blog** :  <a href="https://velog.io/@zangsu" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br>
+  **Email** : zangsu_@naver.com
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzangsu%2Fhit-counter&count_bg=%238CC85E&title_bg=%23616668&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  <br>
   
   # 📁 My Repo
   
-  ## Project
+  ## 프로젝트
   ### [cs-test-service](https://github.com/zangsu/cs-test-service)
   > 간단한 CS 문제를 풀어볼 수 있는 서비스
   > 
@@ -55,8 +59,15 @@
   > 프로젝트 진행 기간 : 2022 10. ~ 12.
   > 
   >  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
+
+  <br>
+  
   ## 우아한 프리코스
   ### 1주차 - [숫자야구](https://github.com/zangsu/java-baseball-precourse)
    > 벨로그 : [숫자 야구](https://velog.io/@zangsu/%EC%9A%B0%ED%85%8C%EC%BD%94-%ED%94%84%EB%A6%AC%EC%BD%94%EC%8A%A4-1%EC%A3%BC%EC%B0%A8-%EC%88%AB%EC%9E%90%EC%95%BC%EA%B5%AC) <br>  
   ### 2주차 - [자동차 레이싱 경주](https://github.com/zangsu/java-racingcar-precourse)
 
+<br>
+
+
+  
