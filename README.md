@@ -25,8 +25,8 @@
   # 🖐 안녕하세요, 개발자 Zangsu 입니다! 🖐
   
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=gradient&hide_rank="false">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zangsu&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=gradient&hide_rank="false">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zangsu&hide=Jupyter%20Notebook&layout=compact&border=true&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=zangsu&hide=Jupyter%20Notebook&theme=transparent&hide_border=true&background=00000000">
 </p>
 
