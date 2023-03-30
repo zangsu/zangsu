@@ -24,17 +24,7 @@
 
   # 🖐 안녕하세요, 개발자 Zangsu 입니다! 🖐
   
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=gradient&hide_rank="false">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zangsu&hide=Jupyter%20Notebook&layout=compact&border=true&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=zangsu&hide=Jupyter%20Notebook&theme=transparent&hide_border=true&background=00000000">
-</p>
 
-  
-
- 
-
-  </div>
 
   ### Contact  
   **Blog** :  <a href="https://velog.io/@zangsu" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <br>
@@ -43,6 +33,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzangsu%2Fhit-counter&count_bg=%238CC85E&title_bg=%23616668&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   <br>
   
+  <p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=zangsu&show_icons=true&count_private=true&theme=transparent&hide_border=true&bg_color=gradient&hide_rank="false">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=zangsu&hide=Jupyter%20Notebook&layout=compact&border=true&theme=transparent&bg_color=00000000&langs_count=8&hide_border=true">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=zangsu&hide=Jupyter%20Notebook&theme=transparent&hide_border=true&background=00000000">
+</p>
+  
+  </div>
   # 📁 My Repo
   
   ## 프로젝트
