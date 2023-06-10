@@ -47,7 +47,7 @@
   ### [cs-test-service](https://github.com/zangsu/cs-test-service)
   > 간단한 CS 문제를 풀어볼 수 있는 서비스
   > 
-  > 프로젝트 진행 기간 : 2023 3/8 ~ 3/31
+  > 프로젝트 진행 기간 : 2023 3/8 ~ 4/7
   > 
   > <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white"/> <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/>
 
